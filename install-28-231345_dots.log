@@ -1,0 +1,61 @@
+ 
+
+     ██╗ █████╗    ██╗  ██╗ ██████╗  ██████╗ ██╗     ██╗████████╗      ██████╗  ██████╗ ████████╗███████╗
+     ██║██╔══██╗   ██║ ██╔╝██╔═══██╗██╔═══██╗██║     ██║╚══██╔══╝      ██╔══██╗██╔═══██╗╚══██╔══╝██╔════╝
+     ██║███████║   █████╔╝ ██║   ██║██║   ██║██║     ██║   ██║   █████╗██║  ██║██║   ██║   ██║   ███████╗
+██   ██║██╔══██║   ██╔═██╗ ██║   ██║██║   ██║██║     ██║   ██║   ╚════╝██║  ██║██║   ██║   ██║   ╚════██║
+╚█████╔╝██║  ██║██╗██║  ██╗╚██████╔╝╚██████╔╝███████╗██║   ██║         ██████╔╝╚██████╔╝   ██║   ███████║
+ ╚════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝   ╚═╝         ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝
+                                                                                                         
+
+Keyboard layout: us
+[33m[NOTE][m Detecting keyboard layout to prepare necessary changes in hyprland.conf before copying
+
+[3166m Detected keyboard layout or keymap: us. Is this correct? [y/n] [33m Ensure to type in the proper keyboard layout else Hyprland will crash and might not start!!!
+
+[3166m[WARN][m - Sample Keyboard layouts are us, kr, es, gb, de, pl, etc.
+
+[36m[ACTION][m - Please enter the correct keyboard layout: 
+[3166m Select monitor resolution for better Rofi appearance:
+[33m 1. Equal to or less than 1080p (≤ 1080p)
+[33m 2. Equal to or higher than 1440p (≥ 1440p)
+[36m[ACTION][m Enter the number of your choice: You chose ≥ 1440p resolution for better Rofi appearance.
+[33m[NOTE][m - copying dotfiles
+ Copying config files...
+[32m[OK][mCopy completed!
+[32m[OK][mCopy completed!
+ adding user to input group...
+Adding user deep1910 to group input
+[[1;32mI[0m] [1;31mimage[0m: Using image [1;37mmecha-nostalgia.png[0m.
+[[1;32mI[0m] [1;31mcolors[0m: Generating a colorscheme.
+[[1;32mI[0m] [1;31mcolors[0m: Using wal backend.
+[[1;32mI[0m] [1;31mcolors[0m: Generation complete.
+[[1;32mI[0m] [1;31mwallpaper[0m: Set the new wallpaper.
+[[1;32mI[0m] [1;31msequences[0m: Set terminal colors.
+[[1;32mI[0m] [1;31mexport[0m: Exported all files.
+[[1;32mI[0m] [1;31mexport[0m: Exported all user files.
+[[1;32mI[0m] [1;31mreload[0m: Reloaded environment.
+[[1;33mW[0m] [1;31mreload[0m: GTK2 reload support requires Python 2.
+]P00f1016
+                 ]P15F6B9D
+                 ]P2727EC2
+                 ]P3A771A3
+                 ]P4E57593
+                 ]P54EB5B3
+                 ]P66DA1DE
+                 ]P7d3bbd4
+                 ]P8938294
+                 ]P95F6B9D
+                 ]PA727EC2
+                 ]PBA771A3
+                 ]PCE57593
+                 ]PD4EB5B3
+                 ]PE6DA1DE
+                 ]PFd3bbd4
+                 c
+[32m[OK][m Copy Completed!
+
+
+[3166m ATTENTION!!!! 
+[3166m YOU NEED to logout and re-login or reboot to avoid issues
+
